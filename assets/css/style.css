@@ -1,1 +1,12 @@
 /* style css */
+.navbar-brand {
+    background-color: red;
+}
+
+#navbar {
+    background-color: black;
+}
+
+body {
+    background-color: rgb(243, 206, 176);
+}

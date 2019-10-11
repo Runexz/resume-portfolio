@@ -1,12 +1,25 @@
-/* style css */
+/* navbar css */
 .navbar-brand {
     background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
 }
 
-#navbar {
-    background-color: black;
+/* container with intro pic and paragraph centering to the page for index.html */
+.aboutMe {
+    margin-top: 90px;
+    margin-bottom: 70px;
 }
 
-body {
-    background-color: rgb(243, 206, 176);
+/* background img for index page */
+.indexBg {
+    background-image: url(../images/indexbg.jpg);
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
 }

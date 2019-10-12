@@ -18,6 +18,19 @@
     background: rgb(255, 255, 255, 0.5);
 }
 
+/* container with github, linked in for contact.html */
+.myContact {
+    margin-top: 110px;
+    margin-bottom: 60px;
+
+}
+
+/* resizing of github linkedin logo */
+.contactSize {
+    height: 90px;
+    width: 90px;
+}
+
 .imageSize {
     height: 100%;
     width: 100%;

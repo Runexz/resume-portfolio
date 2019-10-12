@@ -9,12 +9,47 @@
 /* container with intro pic and paragraph centering to the page for index.html */
 .aboutMe {
     margin-top: 90px;
-    margin-bottom: 70px;
+    margin-bottom: 60px;
+}
+/* container with my skills and my apps for portfolio.html*/
+.myApps {
+    margin-top: 90px;
+    margin-bottom: 60px;
+    background: rgb(255, 255, 255, 0.5);
 }
 
-/* background img for index page */
+.imageSize {
+    height: 100%;
+    width: 100%;
+}
+
+/* background img for index page Photo by Christian Wiediger on Unsplash*/
 .indexBg {
     background-image: url(../images/indexbg.jpg);
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* background img for portfolio page Photo by Caspar Camille Rubin on Unsplash*/
+.portfolioBg {
+    background-image: url(../images/portfoliobg.jpg);
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* background img for portfolio page Photo by Hunters Race on Unsplash*/
+.contactBg {
+    background-image: url(../images/contactbg.jpg);
     /* Full height */
     height: 100%;
 

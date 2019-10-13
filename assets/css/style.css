@@ -5,6 +5,13 @@
     padding-right: 10px;
     font-size: 25px;
 }
+ 
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
 
 /* container with intro pic and paragraph centering to the page for index.html */
 .aboutMe {
